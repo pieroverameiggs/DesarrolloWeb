@@ -1,0 +1,72 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body 
+{
+    margin: 0;
+    padding: 0;
+    background: url(../Images/Fondo.png);
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.title 
+{
+    text-align: center;
+    padding: 50px 0 20px;
+}
+.title h1 
+{
+    margin: 0;
+    padding: 0;
+    color: #262626;
+    text-transform: uppercase;
+    font-size: 36px,
+}
+.container 
+{
+    width: 50%;
+    height: 400px;
+    background: #fff;
+    margin: 0 auto;
+    border: 2px solid #fff;
+    box-shadow: 0 15px 40px  rgba(0,0,0,.5);
+}
+.container .left
+{
+   float: left;
+   width: 50%;
+   height: 400px;
+   background: url(../Images/Fondo.png);
+   background-size: cover;
+   box-sizing: border-box;
+}
+.container .right
+{
+   float: right;
+   width: 50%;
+   height: 400px;
+   box-sizing: border-box;
+}
+.formbox 
+{
+    width: 100%;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    height: 400px;
+    background: #fff;
+}
+.formbox p
+{
+    margin: 0;
+    padding-top: 20px;
+    font-weight: bold;
+    color: #1479f6;
+}
+.Boton 
+{
+    width:100%;
+    margin-top: 10px;
+    border:none;
+    outline:none;
+    height:40px;
+}
