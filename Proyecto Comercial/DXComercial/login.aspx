@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <div class="title"><h1>Ingresar credenciales PIERO VERA </h1></div>
+        <div class="title"><h1>Ingresar credenciales PIERO VERA editando en este momento </h1></div>
         <div class ="container">
             <div class="left"></div>
             <div class="right">
