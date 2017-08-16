@@ -11,7 +11,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
+<<<<<<< HEAD
         <div class="title"><h1>Ingresar credenciales PIERO VERA editando en este momento </h1></div>
+=======
+        <div class="title"><h1>Ingresar credenciales XD </h1></div>
+>>>>>>> a73c49f8bdac9e9c15627b4df879645072893db1
         <div class ="container">
             <div class="left"></div>
             <div class="right">
